@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Laszlo Davids first personal Site"
+title: "Laszlo David's first personal website"
 date: 2017-08-29
 ---
 
