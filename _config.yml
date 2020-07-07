@@ -1,3 +1,6 @@
 name: Laszlo David
 markdown: kramdown
+title: Laszlo David personal page
+description: This site presents my professional development as a Java Backend developer, and my journey to extend my knowledge in the field.
 permalink: /blog/:title
+theme: jekyll-theme-cayman

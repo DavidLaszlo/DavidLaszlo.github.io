@@ -1,3 +1,10 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+    /*@import "{{ site.theme }}";*/
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -33,11 +40,16 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
+}
+
+img.logo {
+    height: 50px;
+    margin-right: 20px;
 }
